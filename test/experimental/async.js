@@ -6,6 +6,7 @@
  */
 
 var request = require('supertest');
+var Promise = require('bluebird');
 var koa = require('../..');
 
 describe('.experimental=true', function () {
