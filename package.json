@@ -21,7 +21,7 @@
   "dependencies": {
     "accepts": "^1.2.2",
     "bluebird": "^3.4.1",
-    "bluebird-co": "^2.1.2",
+    "bluebird-co": "^2.2.0",
     "composition": "^2.3.0",
     "content-disposition": "~0.5.0",
     "content-type": "^1.0.0",
